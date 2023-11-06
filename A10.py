@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -55,10 +49,3 @@ plt.ylabel('Total Sales Amount')
 plt.title('Sales Amount by Region and Product Category (Grouped Bar Plot)')
 plt.legend(title='Region')
 plt.show()
-
-
-# In[ ]:
-
-
-
-
