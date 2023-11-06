@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
-
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
