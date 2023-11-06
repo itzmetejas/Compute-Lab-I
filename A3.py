@@ -23,32 +23,5 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy * 100:.2f}%")
 
 
-# In[4]:
-
-
-
-
-
-# In[5]:
-
-
-
-
-
-# In[10]:
-
-
-
-
-
-# In[8]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
